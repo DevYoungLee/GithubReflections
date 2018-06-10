@@ -1,1 +1,2 @@
 You might want to use a remote repository rather than keeping it local if you are collaborating on a project and want your code to be shared or reviewed. Also it is an easy way to make sure your code gets saved in a cloud in case something goes wrong with your computer.
+You might want to pull changes manually rather than Git automatically staying up-to-date with your remote repository because there may be commits in the remote that you do not want, need, or may interfere with the local repository.
